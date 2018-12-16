@@ -6,4 +6,4 @@ custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/refere
 original_id: get_started
 ---
 
-## Welcome to Red Gold AI
+## Welcome to Red Gold AI 3

@@ -1,6 +1,26 @@
 {
   "ai": {
-    "Red Gold AI": ["ai/get_started"]
+    "Red Gold AI": [
+      "ai/get_started",
+      "ai/core_value"
+    ],
+    "Causal Net": [
+      "ai/pipeline/causal-net",
+      "ai/pipeline/dataset/causal-net-dataset",
+      "ai/pipeline/models/causal-net-models",
+      "ai/pipeline/preprocessing/causal-net-preprocessing",
+      "ai/pipeline/representation/causal-net-representation",
+      "ai/pipeline/utils/causal-net-utils"
+    ],
+    "Moderator deployment": [
+      "ai/moderator",
+      "ai/webApp/moderator.ai",
+      "ai/cloudServices/moderator-controller",
+      "ai/cloudServices/moderator-insights"
+    ],
+    "document":[
+      "ai/document/api"
+    ]
   },
   "social": {
     "Red Gold Social": [
