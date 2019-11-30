@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: IBMPlexMono-Text
+font link: https://fonts.google.com/specimen/IBM+Plex+Mono
+font author: Mike Abbink
+font author site: https://www.mikeabbink.com/
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Gregor Cresnar
+icon designer link: /grega.cresnar
+        
+{"bg":"transparent","icon-gradient-0":"#EA1F59","icon-gradient-1":"#FA9169","font":"#000000","slogan":"#141414"}
+      

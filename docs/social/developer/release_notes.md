@@ -7,7 +7,7 @@ original_id: arelease_notes
 ---
 
 ## August 28, 2018
-  **React Social Front-end**
+  **Telar Scoial Front-end**
    #### Breaking changes
    * Some
    * Some

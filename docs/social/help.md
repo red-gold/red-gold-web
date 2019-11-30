@@ -6,7 +6,7 @@ custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/refere
 original_id: help
 ---
 
-Welcome to React Social
+Welcome to Telar Scoial
 
 This document will give you the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 

@@ -9,7 +9,7 @@ original_id: install_firebase
 [![Firestore](https://raw.githubusercontent.com/Qolzam/react-social-network/next/docs/app/firestore2.png)](firebase.google.com/cloud/firestore)
     **Video tutorial**
     
-    [![Install React Social Network](https://img.youtube.com/vi/zrqDE82Eny8/0.jpg)](https://www.youtube.com/watch?v=zrqDE82Eny8)
+    [![Install Telar Scoial Network](https://img.youtube.com/vi/zrqDE82Eny8/0.jpg)](https://www.youtube.com/watch?v=zrqDE82Eny8)
    #### With [Firestore](https://github.com/Qolzam/firestore-social-backend)
    * Configure firebase:
         * If you don't have firebase account, follow [Create firebase account](https://firebase.google.com/)
@@ -23,4 +23,4 @@ original_id: install_firebase
         * [Enable OAuth](https://firebase.google.com/docs/auth/) We are supporting sign-in with [Github](https://medium.com/@endactiongroup/enable-github-sign-in-oauth-with-firebase-38b93960e8db), Google and [Facebook](https://medium.com/@endactiongroup/enable-facebook-sign-in-oauth-with-firebase-af7a6651b60c). Following [firebase document](https://firebase.google.com/docs/auth/) you can enable each one you need.
         * [Install Firestore Social Backend](https://github.com/Qolzam/firestore-social-backend) Follow instruction of [Firestore Social Backend](https://github.com/Qolzam/firestore-social-backend)
       * Enable firestore dependencies
-        * Go to React Social Network folder in `src/socialEngine.ts` write `useFirestore(provider)` to enable firestore dependencies!
+        * Go to Telar Scoial Network folder in `src/socialEngine.ts` write `useFirestore(provider)` to enable firestore dependencies!
