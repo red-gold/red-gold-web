@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Red Gold Solutions', // Title for your website.
+  title: 'Red Gold Technology', // Title for your website.
   tagline: 'Building a smart society',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
