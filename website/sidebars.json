@@ -1,6 +1,11 @@
 {
   "ai": {
-    "Red Gold AI": ["ai/get_started"]
+    "Red Gold AI": [
+        "ai/get_started",
+        "ai/motivation",
+        "ai/moderator",
+        "ai/personalise",
+        "ai/causality" ]
   },
   "social": {
     "Red Gold Social": [
