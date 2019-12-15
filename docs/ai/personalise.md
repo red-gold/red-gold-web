@@ -11,7 +11,7 @@ original_id: personalise
 
 Red gold recommendation and personalise are designed to work at both system side or client side (soon) with censor data of users. Here is the list of features:
 
-|                             | Community version |   professional version   |
+|                             | Community version |   Enterprise version   |
 |-----------------------------|-------------------|--------------------------|
 | Content recommendation      | yes               | yes                      |
 | Friend recommendation       | yes               | yes                      |
