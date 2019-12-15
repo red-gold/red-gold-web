@@ -15,7 +15,7 @@ Red gold moderator is AI service to prevent inappropriated, fraud content from t
 
 Red gold AI service is deployed directly in edge device, which means all AI based decision making processes are transparent. User can understand the inferred labels of their contents either culture score (evaluate the appropriate level of the content), sentiment (evaluate the emotional affect of the content), topics (the category of the content)  to the targeted group/community. 
 
-|                | Community version |   professional version   |
+|                | Community version |   Enterprise version   |
 |----------------|-------------------|--------------------------|
 | sentiment      | yes               | yes                      |
 | topics         | yes               | yes                      |
@@ -26,7 +26,7 @@ Red gold AI service is deployed directly in edge device, which means all AI base
 
 Data and groundtruth labels are selected by community via voting. Then the voted outcome is used to train the AI model. To enable that process, the Our AI solution design to adopt federated learning that allow AI models can be learned from decentrial data sourse. 
 
-|                         | Community version |   professional version   |
+|                         | Community version |   Enterprise version   |
 |-------------------------|-------------------|--------------------------|
 | learning sentiment      | no                | yes                      |
 | learning topics         | no                | yes                      |
