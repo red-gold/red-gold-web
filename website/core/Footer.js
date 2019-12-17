@@ -83,7 +83,8 @@ class Footer extends React.Component {
         <a
           href="https://red-gold.tech/"
           target="_blank"
-          rel="noreferrer noopener">
+          rel="noreferrer noopener"
+          className="fbOpenSource">
           <img
             src={`${this.props.config.baseUrl}img/logos/red-gold-social-network-horizontal-black-white.png`}
             alt="Red Gold Technology"
