@@ -2,10 +2,11 @@
 title: Built with
 id: built_with
 sidebar_label: Built With
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/frontend/built_with.md
 original_id: built_with
 ---
 
+Telar Social User Interface build with:
  
   * [React](https://reactjs.org/) A javascript library for building user interfaces.
   * [Redux](http://redux.js.org/) is a predictable state container for JavaScript apps.

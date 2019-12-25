@@ -2,7 +2,7 @@
 id: help
 title: Help
 sidebar_label: Help
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/ui_reference/actions.md
 original_id: help
 ---
 

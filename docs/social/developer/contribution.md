@@ -2,7 +2,7 @@
 title: Working with source code and contributions
 id: contribution
 sidebar_label: Contribution
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/developer/contribution.md
 original_id: contribution
 ---
 

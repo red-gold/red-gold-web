@@ -2,7 +2,7 @@
 title: Work with Redux
 id: redux
 sidebar_label: Redux Store
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/ui_reference/redux.md
 original_id: redux
 ---
 

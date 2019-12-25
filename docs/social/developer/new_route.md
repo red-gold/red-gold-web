@@ -2,7 +2,7 @@
 title: How do I register new routes?
 id: new_route
 sidebar_label: Router
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/developer/new_route.md
 original_id: new_route
 ---
 

@@ -2,7 +2,7 @@
 title: Theme
 id: theme
 sidebar_label: Theme
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/developer/theme.md
 original_id: theme
 ---
 

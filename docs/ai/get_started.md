@@ -2,14 +2,14 @@
 id: get_started
 title: Getting Started
 sidebar_label: Getting Started
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/ai.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/reference/ai.md
 original_id: get_started
 ---
 
 ## Welcome to Red Gold AI
 
 
-This document will give you the project concept, technical explaination, architecture, and examples for our red gold social AI solutions.
+This document will give you the project concept, technical explaination, architecture, and examples for our Telar Social AI solutions.
 
 #### Go ahead to learn more about Red Gold AI solution for social network
 

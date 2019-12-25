@@ -2,7 +2,7 @@
 title: Services
 id: services
 sidebar_label: Services
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/ui_reference/services.md
 original_id: services
 ---
 

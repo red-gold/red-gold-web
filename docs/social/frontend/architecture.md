@@ -2,7 +2,7 @@
 title: Architecture
 id: architecture
 sidebar_label: Architecture
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/fronend/architecture.md
 original_id: architecture
 ---
 <img height="400" width="700" src="https://raw.githubusercontent.com/red-gold/react-social-network/next/docs/app/layer.png">
@@ -95,7 +95,7 @@ root-directory
 
 <img alt="General Frontend Flow" src="/img/diagrams/frontend-flow.png" />
 
-To **manage states** in frontend side, Red Gold Social has a simple implementation of [Redux](https://redux.js.org/introduction/motivation). Follow above diagram `Components` emit an action from `Actions`. 
+To **manage states** in frontend side, Telar Social has a simple implementation of [Redux](https://redux.js.org/introduction/motivation). Follow above diagram `Components` emit an action from `Actions`. 
 If the action is a direct change on state in [Redux Store](https://redux.js.org/api/store) `Reducers` will execute that action. If the action is async or needs to call an async web api `Sagas` will execute that action.
 
 `Sagas` is a layer that manage side effects. Using [redux-saga](https://redux-saga.js.org/) library we can handle `async actions` easier.

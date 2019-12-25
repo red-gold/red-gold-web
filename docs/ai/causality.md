@@ -2,7 +2,7 @@
 id: causality
 title: causality
 sidebar_label: causality
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/causality.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/reference/causality.md
 original_id: causality
 ---
 

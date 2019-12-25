@@ -2,7 +2,7 @@
 title: The Telar Scoial Data Access Layer
 id: data_access_layer
 sidebar_label: Data Access
-custom_edit_url: https://github.com/red-gold/social-docs/edit/master/docs/reference/actions.md
+custom_edit_url: https://github.com/red-gold/red-gold-web/edit/master/docs/social/developer/data_access_layer.md
 original_id: data_access_layer
 ---
 

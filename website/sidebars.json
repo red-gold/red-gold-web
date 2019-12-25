@@ -8,41 +8,45 @@
         "ai/causality" ]
   },
   "social": {
-    "Red Gold Social": [
+    "Telar Social": [
       "social/get_started",
-      "social/built_with",
       "social/install",
       "social/motivation"
     ],
-    "User Guid": [
-      "social/user/admin",
-      "social/user/install_firebase",
-      "social/user/requirements",
-      "social/user/updates"
+    "Cloud": [
+      "social/cloud/install_ofc",
+      "social/cloud/install_k8s",
+      "social/cloud/install_k3s",
+      "social/cloud/updates"
+    ],
+    "Frontend": [
+      "social/frontend/built_with",
+      "social/frontend/architecture"
     ],
     "Developer Guid": [
-      "social/developer/architecture",
       "social/developer/contribution",
-      "social/developer/add_new_page_menu",
-      "social/developer/architecture",
+      "social/developer/realtime_server_client",
       "social/developer/copy_right_notice",
       "social/developer/data_access_layer",
       "social/developer/data_validation",
       "social/developer/localization",
       "social/developer/new_route",
-      "social/developer/ioc",
       "social/developer/release_notes",
       "social/developer/road_map",
       "social/developer/theme"
     ],
-    "Reference": [
-      "social/reference/actions",
-      "social/reference/sagas",
-      "social/reference/reducers",
-      "social/reference/redux",
-      "social/reference/services",
-      "social/reference/components",
-      "social/reference/tests"
+    "Cloud Reference": [
+      "social/cloud_reference/ddd"
+    ],
+    "Frontend Reference": [
+      "social/ui_reference/actions",
+      "social/ui_reference/sagas",
+      "social/ui_reference/reducers",
+      "social/ui_reference/redux",
+      "social/ui_reference/services",
+      "social/ui_reference/components",
+      "social/ui_reference/tests",
+      "social/ui_reference/di"
     ]
   },
   "blockchain": {

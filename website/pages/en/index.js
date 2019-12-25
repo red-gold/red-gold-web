@@ -104,43 +104,43 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'Lower latency and cheaper data transfer costs. Trusted systems within untrusted environments. transparent, distributed, censorship-immune social platform ',
+        content: 'Lower latency and cheaper data transfer costs. Trusted systems within untrusted environments. transparent, distributed, censorship-immune social platform',
         image: imgUrl('icons/decentralized-icon.png'),
         imageAlign: 'top',
         title: 'Decentralized Network',
       },
       {
-        content: 'Supporting custom localization. Boost local searches and reach a larger audience. Understand cultural peculiarities.',
+        content: 'Supporting custom localization. Boost local searches and reach a larger audience. Understand cultural peculiarities',
         image: imgUrl('icons/lang-icon.png'),
         imageAlign: 'top',
         title: 'Multilingual',
       },
       {
-        content: 'Using meachin learning service to improve user experience. Data Safety/Protects Reputation.',
+        content: 'Using meachin learning service to improve user experience. Data Safety/Protects Reputation',
         image: imgUrl('icons/ai-icon.png'),
         imageAlign: 'top',
         title: 'Artifitial Intelligence',
       },
       {
-        content: 'Content fact checking. Avoid spaming and inappropriate content. ',
+        content: 'Content fact checking. Avoid spaming and inappropriate content',
         image: imgUrl('icons/moderator-icon.png'),
         imageAlign: 'top',
         title: 'Social Moderator',
       },
       {
-        content: 'Keep Privacy',
+        content: 'This project designed to respect privacy of different culture with their own rules. We do not force same privacy for different cultures.',
         image: imgUrl('icons/privacy-icon.png'),
         imageAlign: 'top',
-        title: 'Decentralized Network',
+        title: 'Privacy',
       },
       {
-        content: 'Decentralized Network',
+        content: 'We try to get the maximum safety and reliability with new way in authentication and authorization',
         image: imgUrl('icons/secure-icon.png'),
         imageAlign: 'top',
         title: 'Secure',
       },
       {
-        content: 'This is the content of my feature',
+        content: 'Digital asset designed to work as a medium of exchange that uses strong cryptography',
         image: imgUrl('icons/cryptocurrency-icon.png'),
         imageAlign: 'top',
         title: 'Red Gold Cryptocurrency',
