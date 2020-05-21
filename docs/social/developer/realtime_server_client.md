@@ -24,7 +24,7 @@ In Telar Social fronend we are using Redux to manage to state. All the data is s
 Microservices send the action (to be dispach in frontend by Redux) to Action Controller then Action cotroller will send it to websocket server to handle. Websocket server will send the action to respective user. Frontend will dispatch the action and change the state.
 
 
-Mictoservice -> Action Controller  -> Websocket server -> Frontend (Redux)
+Microservice -> Action Controller  -> Websocket server -> Frontend (Redux)
 
 
  > ⭐️ This page needs help. Please help with your contribution. To start click on edit button.
