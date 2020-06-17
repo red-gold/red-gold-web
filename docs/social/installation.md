@@ -8,7 +8,7 @@ original_id: install
 
 ### Please choose your installation method
 
-- [Install on OpenFaaS Cloud](https://red-gold.tech/docs/en/social/cloud/install_ofc/)
+- [Install on OpenFaaS Cloud](https://red-gold.tech/docs/en/social/cloud/install_ofc/) **highly recommended** for team work.
 - [Install on Kubernetes](https://red-gold.tech/docs/en/social/cloud/install_k8s/)
 - [Install on K3S (Kubernetes lightweight)](https://red-gold.tech/docs/en/social/cloud/install_k3s/)
 
